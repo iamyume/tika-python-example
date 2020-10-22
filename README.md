@@ -1,6 +1,7 @@
 # Requirements
 
 - java 7 or greater
+- python 3
 
 # Set up dependencies
 
