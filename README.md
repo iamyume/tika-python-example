@@ -1,4 +1,4 @@
-# requirements
+# Requirements
 
 - java 7 or greater
 
